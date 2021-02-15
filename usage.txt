@@ -1,0 +1,11 @@
+Usage: java -Xmx512M -jar PIM.jar [OpenImageFile] [OpenEdgeFile] [SavePIMFile] [SaveCVSFile] [SaveEdgeFile] [SaveMaskFile] [database] [side] [colorize]
+        OpenImageFile: The input image (supported formats PNG, JPG, GIF)
+        OpenEdgeFile: The Black/White edge image (it can be "null" (supported formats PNG, JPG, GIF)
+        SavePIMFile: The PIM image (it can be "null" (supported format PNG)
+        SaveCVSFile: The CVS image (it can be "null"
+        SaveEdgeFile: The Black/White edge image (it can be "null" (supported format PNG)
+        SaveMaskFile: The Black/White edge image (it can be "null" (supported format PNG)
+        database: the PIM database
+        side: The tile side
+        colorize: true to colorize the image, false otherwise
+        uniformDistribution: true to use an uniform distribution of the objects
