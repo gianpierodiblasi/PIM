@@ -15,7 +15,6 @@ Moreover, a novel approach, called Ramses, to the steganography based on the Puz
 ## References
 
 - my papers - [link](https://sites.google.com/view/gianpierodiblasi/pubblicazioni)
-- Di Blasi G., Petralia M., 2005 - Fast Photomosaic. In POSTER proceedings of ACM/WSCG2005. [PAPER](https://drive.google.com/open?id=0B17YbZ6rddEFRGZaZUFLVko4ZEU), [POSTER](https://drive.google.com/open?id=0B17YbZ6rddEFbUxjSFgwQ0FaRDA)
 - Di Blasi G., Gallo G., Petralia M., 2005 - Fast Techniques for Mosaic Rendering. In proceedings of Eurographics Workshop on Computational Aesthetics 2005. [PAPER](https://drive.google.com/open?id=0B17YbZ6rddEFVWNnYURvcENnWEk), [SLIDES](https://drive.google.com/open?id=0B17YbZ6rddEFdFBtdUhBOVp1Rkk)
 - Di Blasi G., Gallo G., Petralia M., 2005 - Puzzle Image Mosaic. In proceedings of IASTED VIIP2005. [PAPER](https://drive.google.com/open?id=0B17YbZ6rddEFbXo5MFlfWXdtSXM), [SLIDES](https://drive.google.com/open?id=0B17YbZ6rddEFN1J4YUhIbmJZZEU)
 - Battiato S., Di Blasi G., Farinella G.M., Gallo G., 2006 - A Survey of Digital Mosaic Techniques. In proceedings of Eurographics Italian Chapter 2006. [PAPER](https://drive.google.com/open?id=0B17YbZ6rddEFWVljeTloZWJfbTA), [SLIDES](https://drive.google.com/open?id=0B17YbZ6rddEFX2trQ3JLRmU1aDg)
