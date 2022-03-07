@@ -4,7 +4,8 @@ Algorithms and UIs to create puzzle image mosaics and to run the Ramses steganog
 
 ## Description
 
-A new technique to produce composite images called Puzzle Image Mosaic (PIM)is provided in this project, where image tiles of arbitrary shape are used to compose the final picture.
+A new technique to produce composite images called Puzzle Image Mosaic (PIM) is provided in this project, where image tiles of arbitrary shape are used to compose the final picture.
+
 Moreover, a novel approach, called Ramses, to the steganography based on the Puzzle Image Mosaic is provided.
 
 ## Dependencies
